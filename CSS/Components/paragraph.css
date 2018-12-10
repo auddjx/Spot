@@ -1,0 +1,12 @@
+.paragraph {
+	text-align: center;
+	color: black;
+	font-family: 'Roboto', sans-serif;
+	padding: 100px auto;
+	margin: 20px auto;
+	padding-top: 100px;
+	padding-bottom: 80px;
+	padding-left: 50px;
+	padding-right: 50px; 
+
+}

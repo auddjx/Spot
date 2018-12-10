@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito|Roboto');
+
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/menu.css");
+@import url("components/card.css");
+
+
+
+/* fonts and colors */
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+
+}
+
+}
+h1 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 24px; 
+  color: pink; 
+}
+
+h2 {
+   font-family: 'Nunito', sans-serif;
+   font-size: 18px;
+   color: black;
+   font-weight: bolder;
+}
+
+h3 {
+	font-family: 'Nunito', sans-serif;
+	font-size: 18px;
+	color: black;
+	font-weight: lighter;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: pink;
+  text-decoration: none;
+}
+

@@ -1,0 +1,11 @@
+.menu {
+background: white;                         /* White background */
+padding: 30px; 
+margin-bottom: : 20px;                            /* Internal space */
+border-radius: 4px;                        /* Small radius */
+box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+display: flex;
+justify-content: space-around;
+align-items: flex-start;
+}
+
