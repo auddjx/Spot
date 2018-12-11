@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito|Roboto');
 
-@import url("components/avatar.css");
-@import url("components/banner.css");
-@import url("components/button.css");
-@import url("components/container.css");
-@import url("components/menu.css");
-@import url("components/card.css");
+@import url("all_components/avatar.css");
+@import url("all_components/banner.css");
+@import url("all_components/button.css");
+@import url("all_components/container.css");
+@import url("all_components/menu.css");
+@import url("all_components/card.css");
 
 
 
